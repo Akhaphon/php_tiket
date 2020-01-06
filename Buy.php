@@ -1,6 +1,5 @@
 <!DOCTYPE html>
-<!-- hello -->
-<!-- Website template by freewebsitetemplates.com -->
+<!-- Website tSemplate by freewebsitetemplates.com -->
 <html>
 <head>
 <meta charset="UTF-8">
